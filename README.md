@@ -1,5 +1,5 @@
 ## py-microscope
-
+<img src="https://raw.githubusercontent.com/ezefranca/py-microscope/master/logo.png" style="width: 20%; height: 20%"/>
 Projeto de um microscópio básico construido a partir de uma webcam USB com a visualização feita com Python.
 
 ## Sobre
