@@ -34,7 +34,7 @@ echo /usr/local/opt/opencv/lib/python3.6/site-packages >> /usr/local/lib/python3
 ```
 8. Agora você pode instalar qualquer outra biblioteca python necessaária. Precisamos do numpy e do scipy:
 ```
-pip install numpy scipy scikit-image matplotlib scikit-learn
+pip3 install numpy scipy scikit-image matplotlib scikit-learn
 ```
 
 9. Agora vamos tentar rodar o OpenCV :)
@@ -44,4 +44,5 @@ O primeiro comando rodará o python3 e o segundo importará o opencv, o terceiro
 python3
 import cv2
 print(cv2.__version__)
+quit()
 ```
